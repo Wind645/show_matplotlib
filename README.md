@@ -1,1 +1,2 @@
 # show_matplotlib
+笔者探索matplotlib绘图功能的一些展示
